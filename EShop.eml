@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<component inherit-compiler-output="true" jdk="1.8" jdk_type="JavaSDK">
+<component inherit-compiler-output="true" inheritJdk="true">
 	<output-test url="file://$MODULE_DIR$/out/test/EShop"/>
 	<exclude-output/>
 	<contentEntry url="file://$MODULE_DIR$"/>
-	<lib name="miglayout-4.0-swing.jar" scope="COMPILE">
-		<relative-module-cls project-related="jar://$PROJECT_DIR$/miglayout-4.0-swing.jar/miglayout-4.0-swing.jar!/"/>
-	</lib>
 </component>
