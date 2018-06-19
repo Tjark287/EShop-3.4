@@ -1,0 +1,1 @@
+Datum:22.3.2018[Artikelnummer: 1111 Name: kaka  Anzahl: 2 Preis: 3.5]Gesamtpreis: 7.0Kunde: Name: luki Adresse: gertrudenstreet 1 28203 bremen
